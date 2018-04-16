@@ -15,4 +15,4 @@ Follow the command line prompts to navigate, create playlists, and select songs 
 
 ## Video Demo
 
-Click <a href="https://youtu.be/em8M3a5RTU0" target="_blank">here</a> for a video demo of Behind the Music.
+Click <a href="https://youtu.be/em8M3a5RTU0" target="_blank">here</a> for a video demo of Playlist Creator.
